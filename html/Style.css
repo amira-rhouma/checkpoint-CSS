@@ -1,0 +1,59 @@
+body{ background-color: white; }
+.titre1{color: chocolate;
+     }
+.titre2{
+    color:red;
+    font-size: 50px;
+    text-align: center;
+}
+.Home {
+    text-decoration:none ;
+    color: chocolate;
+}
+.About{
+    text-decoration:none;
+    color:chocolate
+}
+.img1{
+    width:40% ;
+    margin-left: 300px;
+    
+}
+.PROJET{
+    display: flex;
+    justify-content: center;
+
+}
+.project{
+width:300px;
+border: 1px solid black;
+display: flex;
+flex-direction: column;
+justify-content: center;
+padding:10px 5px;
+margin-left: 50px;
+margin-top: 30px;
+}
+
+
+   
+
+.Project_img{
+    width: 280px;
+}
+    
+
+.Work{
+    text-decoration:none ;
+    color: chocolate;
+}
+.About{
+    text-decoration:none;
+    color:chocolate
+}
+.Resume{
+    text-decoration:none ;
+    color: chocolate;
+
+}
+
